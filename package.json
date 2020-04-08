@@ -1,0 +1,19 @@
+{
+  "name": "RedeTwisty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discloud-status": "^0.1.6",
+    "discord.js": "^11.6.3",
+    "lowdb": "^1.0.0",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2"
+  }
+}
